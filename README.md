@@ -1,5 +1,5 @@
 # cc0palette
-## free palette for any projects.
+## Free palette for any projects.
 
 Pallette created in easy to use and extend in your projects.
 
@@ -12,3 +12,5 @@ Common colors will be added to next versions of this palette in unused space aft
 No added color after separator will be removed.
 
 Separator emerald color will not change and can be used as regular color.
+
+https://creativecommons.org/publicdomain/zero/1.0/
