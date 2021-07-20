@@ -7,7 +7,7 @@ Pallette created in easy to use and extend in your projects.
 
 First 4 rows and 5 row up to emerald color pixel separator is for your project specific colors.
 
-Colors will be added to next versions of this palette in unused space after separator.
+Common colors will be added to next versions of this palette in unused space after separator.
 
 No added color after separator will be removed.
 
