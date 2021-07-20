@@ -1,5 +1,5 @@
 # cc0palette
-## free palette for any projects, but mostly games.
+## free palette for any projects.
 
 Pallette created in easy to use and extend in your projects.
 
